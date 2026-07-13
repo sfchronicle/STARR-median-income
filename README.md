@@ -2,7 +2,7 @@
 
 Critics of standardized testing have long argued that wealthier students have a distinct advantage.
 
-Acadedemic research has largely focused on the SAT and ACT, with a study by the Brookings Institution finding that students whose household income is greater than $200k outscore students whose household income is less than $20k by almost 300 points.
+Academic research has largely focused on the SAT and ACT, with a study by the Brookings Institution finding that students whose household income is greater than $200k outscore students whose household income is less than $20k by almost 300 points.
 
 I could not find any publicly available research connecting wealth to STAAR scores. 
 
